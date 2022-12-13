@@ -5,7 +5,8 @@
 }
 
 body {
-  background: url(img/1.jpg) no-repeat center;
+  background: url(img/1.jpg);
+  background-size: contain;
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
